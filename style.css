@@ -1,0 +1,75 @@
+
+
+
+@font-face {
+    font-family: 'coney_islandregular';
+    src: url('/Police/conei-webfont.eot');
+    src: url('/Police/conei-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/Police/conei-webfont.woff2') format('woff2'),
+         url('/Police/conei-webfont.woff') format('woff'),
+         url('/Police/conei-webfont.ttf') format('truetype'),
+         url('/Police/conei-webfont.svg#coney_islandregular') format('svg');
+    font-weight: normal;
+   font-style: normal;
+}
+header{
+    background-image:url("Image/header.jpg");
+    background-size:100%;
+    background-repeat:no-repeat;
+    height:600px;
+    font-family:'coney_islandregular';
+    color:white
+}
+h1 {
+    font-family:'coney_islandregular';
+    text-align:center;
+    font-size:50px;
+}
+
+body {
+    background-color:rgb(232,226,194);
+    background-size:100%;
+    display:block;
+    font-family:cursive,sans-serif;
+    
+}
+.boza{
+    
+    width:500px;
+    height:700px;
+    float:left;
+}
+.bizu{
+    width:800px;
+    height:500px;
+    float:right;
+    }       
+      
+p {
+    
+    font-size:30px;
+
+}
+.lions1{
+    width:250px;
+    height:200px;
+}
+.lions2{
+    width:100%;
+    height:500px;
+}
+.acrobate{
+    width:500px;
+    float:left;
+}
+.acrobate2{
+    width:500px;
+   float:right;
+}
+
+footer {
+    background-image:url(Image/footer.jpg);
+    background-size:100%;
+    background-repeat:no-repeat;
+    height:700px;
+}
